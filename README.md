@@ -15,6 +15,7 @@ This project is a Gamegogy Leaderboard. It displays a student's total points and
   - java "filename" - to run
 
 ### Gradle
+- https://gradle.org/install/
 - run terminal app
 ```bash
  // run with gradle
