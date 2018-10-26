@@ -4,7 +4,7 @@ Gamegogy
 CS310 Group Scrum Project
 
 ### Description:
-This project is a Gamegogy Leaderboard. It displays a student's total points and rank, and compares this score to their class mates. The instuctor has a view of the students individual names and grades, while the student can only see the ranks. 
+This project is a Gamegogy Leaderboard. It displays a student's total points and rank, and compares this score to their classmates. The instuctor has a view of the students individual names and grades, while the student can only see the ranks. 
 
 ### Installation:
 - This project uses both Java and Gradle to run the project and for testing. 
