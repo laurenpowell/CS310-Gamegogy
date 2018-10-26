@@ -39,7 +39,7 @@ $ gradle runrobot
 ```
 
 ### Usage
-  - Instuctors can add titles to corresponding levels.
+  - Instuctors can add titles to corresponding levels per their students scores.
   - Instuctors can choose different views for the leaderboard.
   - Students can use the leaderboard to see where about they rank in the class to try and improve their scores for a higher place.
   
